@@ -1,6 +1,6 @@
 # COMP 379/479 Machine Learning
 
-## Overview
+### Overview
 Supervised classification learning to indicate whether cardiac arrhythmia or other cardiovascular conditions are present on an EKG.
 
 ### Dataset Used
