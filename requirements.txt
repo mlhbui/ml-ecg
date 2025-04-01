@@ -1,7 +1,0 @@
-pytest
-poetry
-numpy
-pandas
-matplotlib
-scikit-learn
-pre-commit
